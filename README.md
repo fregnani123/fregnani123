@@ -94,4 +94,3 @@ Atualmente estudando:
 Busco oportunidades como Desenvolvedor Full Stack, contribuindo com soluções reais e evoluindo tecnicamente dentro de um time.
 
 
-Atualização de perfil
