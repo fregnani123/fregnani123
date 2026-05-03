@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Full Stack focado em construir soluções reais e funcionais  
 🚀 Experiência com projetos próprios em produção  
-📚 Sempre evoluindo e aprendendo novas tecnologias  
+🌐 Acesse meu site: https://fregnanidesenvolvedor.com.br/  
 
 ---
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-fregnani-8984051a7/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996607600)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiano_fregnani/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fregnani_ita/)
 
 ---
 
@@ -23,6 +23,8 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="electron" src="https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB" />
+<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align="center" alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
@@ -32,21 +34,48 @@
 ## 📌 Sobre mim
 
 - 🎯 Focado em desenvolvimento Full Stack
-- 🛠️ Experiência prática com projetos reais em produção
-- 📈 Buscando evolução constante para atuar em níveis mais avançados
-- 💬 Facilidade em aprender novas tecnologias rapidamente
+- 🛠️ Experiência prática com sistemas em produção
+- 📈 Evoluindo constantemente para atuar como desenvolvedor pleno
+- ⚡ Facilidade em aprender novas tecnologias e regras de negócio
 
 ---
 
 ## 🚀 Projetos em destaque
 
-👉 Em breve você pode adicionar aqui:
-- Sistema completo (frontend + backend)
-- API com autenticação
-- Projeto com banco de dados
-- Algo que resolva problema real
+### 🧾 Retaguarda Gestão Lite
+Sistema desktop para gerenciamento de estoque, com controle de entrada e saída de produtos.
 
-*(Se quiser, eu te ajudo a montar essa parte com base nos seus projetos)*
+**Tecnologias:** Node.js, Electron, SQLite  
+**Destaques:**
+- Controle completo de estoque
+- Aplicação desktop leve e funcional
+- Persistência local com banco SQLite
+
+---
+
+### 📦 Estoque Pro Vendedores — Distribuidora Bella’s
+Sistema de gestão de estoque e controle de remessas entre CD e vendedores.
+
+**Funcionalidades:**
+- Controle de estoque central (CD)
+- Gestão de produtos enviados para vendedores (amostras)
+- Controle de remessas e movimentações
+- Registro de entradas e saídas
+
+**Diferencial:**
+Sistema pensado para operação real de distribuição, ajudando no controle logístico e rastreabilidade dos produtos.
+
+---
+
+### 🌐 Site “New Sun Shine” — Tecnologia & Serviços de Impressão
+Plataforma institucional para divulgação de serviços e captação de clientes.
+
+🔗 https://newsunshine.com.br/
+
+**Objetivo:**
+- Fortalecer presença digital da empresa
+- Facilitar contato com clientes
+- Apresentar serviços de forma profissional
 
 ---
 
@@ -56,16 +85,10 @@ Atualmente estudando:
 - Arquitetura de sistemas
 - Boas práticas de backend
 - Banco de dados e performance
-- Novas tecnologias como Progress 4GL
-
----
-
-## 🎥 Conteúdo que me ajudou
-
-📌 [Como personalizar o seu perfil no GitHub](https://www.youtube.com/watch?v=cRoBt6AZgjc)
+- Progress 4GL
 
 ---
 
 ## ⚡ Objetivo
 
-Busco oportunidades como Desenvolvedor Full Stack, onde eu possa crescer, contribuir com soluções reais e evoluir tecnicamente dentro de um time.
+Busco oportunidades como Desenvolvedor Full Stack, contribuindo com soluções reais e evoluindo tecnicamente dentro de um time.
