@@ -5,7 +5,7 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiano_fregnani/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://wa.me/5548996607600?text=Ol%C3%A1,%20qual%20seu%20nome?%20Em%20breve%20respondo....%20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fregnani123&layout=pie)](https://https://github.com/fregnani123/fregnani123/edit/main/README.md)
+ 
 ## Tecnologias que utilizo ou estou em busca de desenvolver as habilidades necessárias para utilizá-las no meu dia-dia.
  
   
