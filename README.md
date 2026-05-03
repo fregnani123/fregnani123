@@ -67,17 +67,19 @@ Sistema pensado para operação real de distribuição, ajudando no controle log
 
 ---
 
-### 🌐 Site “New Sun Shine” — Tecnologia & Serviços de Impressão
-Plataforma institucional para divulgação de serviços e captação de clientes.
+### 🌐 Projetos Web
 
+#### New Sun Shine — Tecnologia & Serviços de Impressão
+Plataforma institucional para divulgação de serviços e captação de clientes.  
 🔗 https://newsunshine.com.br/
 
-**Objetivo:**
-- Fortalecer presença digital da empresa
-- Facilitar contato com clientes
-- Apresentar serviços de forma profissional
+#### Voltei Pra Mim
+Plataforma web voltada à presença digital e conexão com clientes.  
+🔗 https://volteipramimm.com.br/
 
----
+#### Fregnani Desenvolvedor
+Meu site profissional, apresentando meus projetos, serviços e experiência como desenvolvedor.  
+🔗 https://fregnanidesenvolvedor.com.br/
 
 ## 📚 Aprendizados e evolução
 
