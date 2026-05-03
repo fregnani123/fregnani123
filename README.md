@@ -83,11 +83,14 @@ Meu site profissional, apresentando meus projetos, serviços e experiência como
 
 ## 📚 Aprendizados e evolução
 
+## 📚 Aprendizados e evolução
+
 Atualmente estudando:
 - Arquitetura de sistemas
-- Boas práticas de backend
+- Boas práticas de código
 - Banco de dados e performance
-- Progress 4GL
+- SQL | SQLite | MongoDB
+- LLMs e aplicações com IA
 
 ---
 
