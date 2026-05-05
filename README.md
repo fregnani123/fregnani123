@@ -81,7 +81,6 @@ Plataforma web voltada à presença digital e conexão com clientes.
 Meu site profissional, apresentando meus projetos, serviços e experiência como desenvolvedor.  
 🔗 https://fregnanidesenvolvedor.com.br/
 
-## 📚 Aprendizados e evolu
 
 ## 📚 Aprendizados e evolução
 
