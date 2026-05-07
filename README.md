@@ -90,6 +90,7 @@ Atualmente estudando:
 - Banco de dados e performance
 - SQL | SQLite | MongoDB
 - LLMs e aplicações com IA
+- Progress 4GL
 
 ---
 
