@@ -2,7 +2,6 @@
 
 💡 Desenvolvedor Full Stack focado em construir soluções reais e funcionais  
 🚀 Experiência com projetos próprios em produção  
-🌐 Acesse meu site: https://fregnanidesenvolvedor.com.br/  
 
 ---
 
@@ -66,21 +65,6 @@ Sistema de gestão de estoque e controle de remessas entre CD e vendedores.
 Sistema pensado para operação real de distribuição, ajudando no controle logístico e rastreabilidade dos produtos.
 
 ---
-
-### 🌐 Projetos Web
-
-#### New Sun Shine — Tecnologia & Serviços de Impressão
-Plataforma institucional para divulgação de serviços e captação de clientes.  
-🔗 https://newsunshine.com.br/
-
-#### Voltei Pra Mim
-Plataforma web voltada à presença digital e conexão com clientes.  
-🔗 https://volteipramimm.com.br/
-
-#### Fregnani Desenvolvedor
-Meu site profissional, apresentando meus projetos, serviços e experiência como desenvolvedor.  
-🔗 https://fregnanidesenvolvedor.com.br/
-
 
 ## 📚 Aprendizados e evolução
 
