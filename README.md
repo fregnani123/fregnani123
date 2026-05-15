@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Full Stack focado em construir soluções reais e funcionais
 🚀 Experiência com projetos próprios em produção e páginas web entregues para clientes
-🌐 [fregnanidesenvolvedor.com.br](https://fregnanidesenvolvedor.com.br)
+ [fregnanidesenvolvedor.com.br](https://fregnanidesenvolvedor.com.br)
 ---
 
 ## 🌐 Conecte-se comigo
