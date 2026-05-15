@@ -1,15 +1,15 @@
 # Olá, eu sou o Fabiano Fregnani 👋
 
-💡 Desenvolvedor Full Stack focado em construir soluções reais e funcionais  
-🚀 Experiência com projetos próprios em produção  
+💡 Desenvolvedor Full Stack focado em construir soluções reais e funcionais
+🚀 Experiência com projetos próprios em produção e páginas web entregues para clientes
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-fregnani-8984051a7/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996607600)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fregnani_ita/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fabiano-fregnani-8984051a7/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5548996607600)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/fregnani_ita/)
 
 ---
 
@@ -32,34 +32,40 @@
 
 ## 📌 Sobre mim
 
-- 🎯 Focado em desenvolvimento Full Stack
-- 🛠️ Experiência prática com sistemas em produção
-- 📈 Evoluindo constantemente para atuar como desenvolvedor pleno
-- ⚡ Facilidade em aprender novas tecnologias e regras de negócio
+* 🎯 Focado em desenvolvimento Full Stack
+* 🛠️ Experiência prática com sistemas em produção
+* 🌐 Desenvolvimento de páginas web entregues e publicadas
+* 📈 Evoluindo constantemente para atuar como desenvolvedor pleno
+* ⚡ Facilidade em aprender novas tecnologias e regras de negócio
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 🧾 Retaguarda Gestão Lite
+
 Sistema desktop para gerenciamento de estoque, com controle de entrada e saída de produtos.
 
-**Tecnologias:** Node.js, Electron, SQLite  
+**Tecnologias:** Node.js, Electron, SQLite
+
 **Destaques:**
-- Controle completo de estoque
-- Aplicação desktop leve e funcional
-- Persistência local com banco SQLite
+
+* Controle completo de estoque
+* Aplicação desktop leve e funcional
+* Persistência local com banco SQLite
 
 ---
 
-### 📦 Estoque Pro Vendedores — Distribuidora Bella’s
+### 📦 Estoque Pro Vendedores
+
 Sistema de gestão de estoque e controle de remessas entre CD e vendedores.
 
 **Funcionalidades:**
-- Controle de estoque central (CD)
-- Gestão de produtos enviados para vendedores (amostras)
-- Controle de remessas e movimentações
-- Registro de entradas e saídas
+
+* Controle de estoque central
+* Gestão de produtos enviados para vendedores
+* Controle de remessas e movimentações
+* Registro de entradas e saídas
 
 **Diferencial:**
 Sistema pensado para operação real de distribuição, ajudando no controle logístico e rastreabilidade dos produtos.
@@ -69,17 +75,17 @@ Sistema pensado para operação real de distribuição, ajudando no controle log
 ## 📚 Aprendizados e evolução
 
 Atualmente estudando:
-- Arquitetura de sistemas
-- Boas práticas de código
-- Banco de dados e performance
-- SQL | SQLite | MongoDB
-- LLMs e aplicações com IA
-- Progress 4GL
+
+* Arquitetura de sistemas
+* Boas práticas de código
+* Banco de dados e performance
+* SQL | SQLite | MongoDB
+* LLMs e aplicações com IA
+* Progress 4GL
 
 ---
 
 ## ⚡ Objetivo
 
-Busco oportunidades como Desenvolvedor Full Stack, contribuindo com soluções reais e evoluindo tecnicamente dentro de um time.
-
+Atualmente atuando como Desenvolvedor Full Stack, focado em construir soluções reais, evoluir tecnicamente e contribuir com projetos de impacto dentro de equipes de tecnologia.
 
